@@ -176,17 +176,6 @@ body {
         max-width: 475px;
     }
 
-    .first p {
-        align-self: flex-end;
-        justify-self: start;
-        position: relative;
-        top: 49px;
-        right: 202px;
-        font-family: 'Times New Roman', Times, serif;
-        font-style: italic;
-        font-size: 25px;
-     }
-
 }
 
 @media (min-width: 640px) {
