@@ -143,35 +143,12 @@ body {
         max-width: 475px;
     }
 
-    
-    .first p {
-        align-self: flex-end;
-        justify-self: start;
-        position: relative;
-        top: 49px;
-        right: 202px;
-        font-family: 'Times New Roman', Times, serif;
-        font-style: italic;
-        font-size: 25px;
-     }
-
 }
 
 @media (min-width: 640px) {
     .container {
         max-width: 640px;
     }
-
-    .first p {
-        align-self: flex-end;
-        justify-self: start;
-        position: relative;
-        top: 49px;
-        right: 202px;
-        font-family: 'Times New Roman', Times, serif;
-        font-style: italic;
-        font-size: 25px;
-     }
 
     
 }
@@ -246,16 +223,7 @@ body {
         color: black;
     }
 
-    .first p {
-        align-self: flex-end;
-        justify-self: start;
-        position: relative;
-        top: 49px;
-        right: 83px;
-        font-family: 'Times New Roman', Times, serif;
-        font-style: italic;
-        font-size: 30px;
-     }
+
 }
 
 @media (min-width: 1024px) {
@@ -270,17 +238,6 @@ body {
         font-family: 'Times New Roman', Times, serif;
         margin-top: 60px;
     }
-
-    .first p {
-        align-self: flex-end;
-        justify-self: start;
-        position: relative;
-        top: 49px;
-        right: 85px;
-        font-family: 'Times New Roman', Times, serif;
-        font-style: italic;
-        font-size: 32px;
-     }
 }
 
 @media (min-width: 1280px) {
@@ -295,17 +252,6 @@ body {
         font-family: 'Times New Roman', Times, serif;
         margin-top: 60px;
     }
-
-    .first p {
-        align-self: flex-end;
-        justify-self: start;
-        position: relative;
-        top: 49px;
-        right: 99px;
-        font-family: 'Times New Roman', Times, serif;
-        font-style: italic;
-        font-size: 35px;
-     }
 }
 
 @media (min-width: 1536px) {
