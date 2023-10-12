@@ -194,16 +194,6 @@ body {
         max-width: 640px;
     }
 
-    .first p {
-        align-self: flex-end;
-        justify-self: start;
-        position: relative;
-        top: 49px;
-        right: 202px;
-        font-family: 'Times New Roman', Times, serif;
-        font-style: italic;
-        font-size: 25px;
-     }
 }
 
 @media (min-width: 768px) {
@@ -287,17 +277,6 @@ body {
         object-fit: cover;
         
     }
-
-    .first p {
-        align-self: flex-end;
-        justify-self: start;
-        position: relative;
-        top: 49px;
-        right: 83px;
-        font-family: 'Times New Roman', Times, serif;
-        font-style: italic;
-        font-size: 30px;
-     }
     
     .swiper {
         width: 100%;
@@ -324,17 +303,6 @@ body {
         font-family: 'Times New Roman', Times, serif;
         margin-top: 60px;
     }
-
-    .first p {
-        align-self: flex-end;
-        justify-self: start;
-        position: relative;
-        top: 49px;
-        right: 85px;
-        font-family: 'Times New Roman', Times, serif;
-        font-style: italic;
-        font-size: 32px;
-     }
 }
 
 @media (min-width: 1280px) {
@@ -360,17 +328,6 @@ body {
         object-fit: cover;
         
     }
-
-    .first p {
-        align-self: flex-end;
-        justify-self: start;
-        position: relative;
-        top: 49px;
-        right: 99px;
-        font-family: 'Times New Roman', Times, serif;
-        font-style: italic;
-        font-size: 35px;
-     }
     
     .swiper {
         width: 100%;
