@@ -41,10 +41,9 @@ body {
 }
 
 .checkbtn {
-    display: block;
     cursor: pointer;
     font-size: x-large;
-    margin-right: 20px;
+    padding-top: 1rem;
 }
 
 #check:checked ~ ul {
