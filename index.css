@@ -110,17 +110,10 @@ body {
 
 .first {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0 auto;
+    flex-direction: column;
 }
 
 .first p {
-   align-self: flex-end;
-   justify-self: start;
-   position: relative;
-   top: 49px;
-   right: 202px;
    font-family: 'Times New Roman', Times, serif;
    font-style: italic;
    font-size: 27px;
